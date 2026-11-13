@@ -103,5 +103,7 @@ All implementation in Power BI was done by me (Power Query transformations, data
 
 Juuso Forsman
 
+- BSc., Information and Service Management, Aalto University (from Sep. 2022)
+- MSc. student, Business Analytics, Aalto University (from Sep. 2026)
 
 
