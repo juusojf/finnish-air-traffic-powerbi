@@ -4,6 +4,18 @@ A Power BI report on passenger traffic at 21 airports, built from Finavia's publ
 
 Source: Finavia, Traffic statistics (long-term statistics 1998–2025).
 
+## Dashboard
+
+The `.pbix` file can be found and opened from the main branch of this repository.
+
+**Page 1 — Overview**
+
+![Overview](airtraffic-overview.png)
+
+**Page 2 — Airports**
+
+![Airports](finnish-airports.png)
+
 ## Key Findings
 
 - **Traffic has not recovered to the pre-pandemic peak.** In 2025, Finavia's airports handled 20.4M passengers, 78.6 % of the 2019 peak (26.0M). Traffic fell by roughly 75 % in 2020.
@@ -104,6 +116,6 @@ All implementation in Power BI was done by me (Power Query transformations, data
 Juuso Forsman
 
 - BSc., Information and Service Management, Aalto University (from Sep. 2022)
-- MSc. student, Business Analytics, Aalto University (from Sep. 2026)
+- MSc., Business Analytics, Aalto University (from Sep. 2026)
 
 
